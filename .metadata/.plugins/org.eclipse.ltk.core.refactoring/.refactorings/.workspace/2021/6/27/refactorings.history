@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;gs-maven-complete&apos;" deleteContents="false" description="Delete resource &apos;gs-maven-complete&apos;" element1="/gs-maven-complete" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1624887092345"/>&#x0A;<refactoring comment="Delete resource &apos;gs-maven-initial&apos;" deleteContents="false" description="Delete resource &apos;gs-maven-initial&apos;" element1="/gs-maven-initial" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1624887103059"/>
+</session>
